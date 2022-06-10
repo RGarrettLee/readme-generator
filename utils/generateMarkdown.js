@@ -68,7 +68,7 @@ ${data.description}
 
 ## Installation
 
-Dependencies needed
+Install needed dependencies
 
 \`${data.installation}\`
 
