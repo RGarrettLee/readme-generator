@@ -1,8 +1,10 @@
 # README Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
-Generate README files based on predetermined criteria. This README was created using this tool
+A tool to help streamline the creation of README files. What you're reading was created using this tool
 
 
 ## Table of Contents
@@ -11,30 +13,35 @@ Generate README files based on predetermined criteria. This README was created u
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Contact](#contact)
+- [Questions](#questions)
 
 ## Installation
 
-`npm install Inquirer`
+How to use this project 
+
+`npm install`
 
 ## Usage
 
-run `node index.js`
+`node index.js`
+
+## Tests
+
+`node index.js example`
 
 ## Credits
 
 Author: Garrett Lee
 
+
 ## License
 
-MIT
+Licensed under the [MIT](https://opensource.org/licenses/MIT) license
 
-## Tests
 
-no tests made yet
+## Questions
 
-## Contact
+If you have any questions regarding any of my repos, use the info below to reach me:
 
-[My GitHub](https://github.com/RGarrettLee)
-
-Email: reginaldgarrettlee@gmail.com
+- [My GitHub](https://github.com/RGarrettLee)
+- Email: reginaldgarrettlee@gmail.com
