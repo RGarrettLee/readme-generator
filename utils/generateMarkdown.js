@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   switch(license) {
     case 'None':
-      return;
+      return '';
     case 'Apache 2.0':
       return '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)';
     case 'MIT':
@@ -68,6 +68,8 @@ ${data.description}
 
 ## Installation
 
+Dependencies needed
+
 \`${data.installation}\`
 
 ## Usage
@@ -76,7 +78,7 @@ ${data.description}
 
 ## Tests
 
-${data.tests}
+\`${data.tests}\`
 
 ## Credits
 
@@ -86,9 +88,10 @@ ${renderLicenseSection(data.license)}
 
 ## Questions
 
-[My GitHub](https://github.com/${data.username})
+If you have any questions regarding any of my repos, use the info below to reach me:
 
-Email: ${data.email}
+- [My GitHub](https://github.com/${data.username})
+- Email: ${data.email}
 `;
 }
 
