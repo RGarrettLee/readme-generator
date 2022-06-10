@@ -17,7 +17,7 @@ A tool to help streamline the creation of README files. What you're reading was 
 
 ## Installation
 
-How to use this project 
+Install needed dependencies
 
 `npm install`
 
